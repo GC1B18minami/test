@@ -6,7 +6,7 @@
 
 int main()
 {
-    std::cout << "Hello Visual StudioGit!\n";
+    std::cout << "リモートでコンフリクトを変更\n";
     std::cout << "ローカルリポジトリで変更\n";
 }
 
